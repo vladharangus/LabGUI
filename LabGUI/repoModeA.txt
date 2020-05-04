@@ -1,0 +1,9 @@
+ana a, u, 9, c
+ana b, b, 0, c
+ana z, asd, 10, f
+ana c, ads dsa s, 45, f
+ana a, u, 9, c
+ana b, b, 0, c
+ana z, asd, 10, f
+ana c, ads dsa s, 45, f
+ana p, sadd, 34, s

@@ -1,0 +1,19 @@
+﻿  Uic'ing LabGUI.ui...
+  Rcc'ing LabGUI.qrc...
+  Moc'ing LabGUI.h...
+   RCC: Warning: No resources in 'C:\Users\Vlad\Desktop\Anul1\OOP\LabGUI\LabGUI\LabGUI.qrc'.
+  CVS_HTMLRepository.cpp
+  FakeRepository.cpp
+  FileRepository.cpp
+  LabGUI.cpp
+  main.cpp
+  MyWidget.cpp
+  pch.cpp
+  Repository.cpp
+  Service.cpp
+  Statue.cpp
+  Validator.cpp
+  ValidatorException.cpp
+c:\users\vlad\desktop\anul1\oop\labgui\labgui\service.cpp(156): warning C4715: 'Service::hello_next': not all control paths return a value
+c:\users\vlad\desktop\anul1\oop\labgui\labgui\main.cpp(17): error C2440: 'initializing': cannot convert from 'initializer list' to 'Service'
+  c:\users\vlad\desktop\anul1\oop\labgui\labgui\main.cpp(17): note: No constructor could take the source type, or constructor overload resolution was ambiguous
